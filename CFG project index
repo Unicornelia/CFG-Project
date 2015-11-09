@@ -4,6 +4,7 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="CFGstyle.css">
+
   <title>CSN Holistic centre for body and mind</title>
 
 
@@ -16,9 +17,11 @@
 
 <p>Our centre is built on the principles and benefits of dance, yoga and psychology</p>
 
-<div id="dance"></div>
-<div id="yoga"></div>
-<div id="psychology"></div>
+<div class="dance"></div>
+
+<div class="yoga"></div>
+
+<div class="psychology"></div>
 
 <p>some change</p>
 

@@ -1,3 +1,11 @@
+h1{
+ 	background-image: url("http://i.imgur.com/oeZ3C5X.jpg");
+ 	background-size: cover;
+	font-family: 'Megrim', cursive;
+ 	font-size:80px;
+ 	text-align:center;
+ }
+
 p {
 color: blue;
 }

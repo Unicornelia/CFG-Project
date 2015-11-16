@@ -3,6 +3,7 @@
 
 
 <head>
+<link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" tpye="text/css" href="CFGstyle-yoga.css">
 <link rel="stylesheet" type="text/css" href="CFGstyle.css">
 
@@ -20,6 +21,7 @@
 <p>Our centre is built on the principles and benefits of dance, yoga and psychology</p>
 
 <div class="dance"></div>
+<p>From Ballet to Breakdance, all types of dance keeps both the body and the brain active, vital for people of every age. Dance offers a way to improve strength and flexibility, which helps keeps muscles and joints healthy.</p>
 
 <div class="yoga" class="container">
 <p> Here at CSN, we provide various types of yoga to strengthen the mind and body.<br>Whether you are a beginner or a seasoned yogi, our instrutors are trained to accomodate for all levels of fitness and ability.<br>Come and join us as we relax, rebalance your energies and strengthen your body.</p>

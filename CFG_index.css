@@ -1,0 +1,91 @@
+h1 {
+font-family:"Megrim", cursive;
+font-size: 60px;
+text-align: center;
+
+}
+
+#csncenter {
+    display: block;
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.sessions {
+
+}
+.secimg {
+  width: 100px;
+  height: 100px;
+}
+
+.secimgspa {
+  width: 200px;
+  height: 200px;
+ 
+}
+
+
+#findus  {
+  text-align: center;
+  font-size: 21px;
+  background-color: rgba(32,35,40,0.8);
+  background-size: cover;
+  color: #ddd;
+  padding-bottom: 15px;
+
+
+}
+ul.navbar {padding: 10px;
+      background:black;}
+.navbar li{
+  display: inline;
+    padding: 0px 10px 0px 10px;
+
+  }
+
+
+
+/*.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+}
+.jumbotron h1,
+.jumbotron .h1 {
+  color: inherit;
+}
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
+.jumbotron > hr {
+  border-top-color: #d5d5d5;
+}
+.container .jumbotron,
+.container-fluid .jumbotron {
+  border-radius: 6px;
+}
+.jumbotron .container {
+  max-width: 100%;
+}
+@media screen and (min-width: 768px) {
+  .jumbotron {
+    padding: 48px 0;
+  }
+  .container .jumbotron,
+  .container-fluid .jumbotron {
+    padding-right: 60px;
+    padding-left: 60px;
+  }
+  .jumbotron h1,
+  .jumbotron .h1 {
+    font-size: 63px;
+  }*/
+}

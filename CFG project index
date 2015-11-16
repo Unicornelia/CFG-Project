@@ -3,7 +3,9 @@
 
 
 <head>
+<link rel="stylesheet" tpye="text/css" href="CFGstyle-yoga.css">
 <link rel="stylesheet" type="text/css" href="CFGstyle.css">
+
 
   <title>CSN Holistic centre for body and mind</title>
 
@@ -19,7 +21,21 @@
 
 <div class="dance"></div>
 
-<div class="yoga"></div>
+<div class="yoga" class="container">
+<p> Here at CSN, we provide various types of yoga to strengthen the mind and body.<br>Whether you are a beginner or a seasoned yogi, our instrutors are trained to accomodate for all levels of fitness and ability.<br>Come and join us as we relax, rebalance your energies and strengthen your body.</p>
+
+<tr>
+	<td> Yoga types at CSN </td>
+	<ul>
+		<li>Ashtanga</li>
+		<li>Bikram</li>
+		<li>Hatha</li>
+		<li>Vinyasa</li>
+	</ul>
+</tr>
+<img class="img-circle", src="/Users/evie/Documents/Code First girls/Project/CFG-Project/CFG-Project-Images/yoga2.jpg
+"></p>
+</div>
 
 <div class="psychology"></div>
 

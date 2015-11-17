@@ -15,7 +15,8 @@ text-align: center;
     text-align: center;
 }
 
-.sessions {
+p {
+  text-align: center;
 
 }
 .secimg {
@@ -24,68 +25,52 @@ text-align: center;
 }
 
 .secimgspa {
-  width: 200px;
-  height: 200px;
+  width: 180px;
+  height: 180px;
  
 }
 
+#contactus {
+
+   text-align: center;
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.8);
+  background-size: cover;
+  color: #ddd;
+
+  display: block;
+  padding: 10px;
+}
 
 #findus  {
   text-align: center;
-  font-size: 21px;
-  background-color: rgba(32,35,40,0.8);
+  font-size: 18px;
+  background-color: rgba(0, 0, 0, 0.8);
   background-size: cover;
   color: #ddd;
-  padding-bottom: 15px;
 
-
+  display: block;
+  padding: 10px;
 }
+
+#formhorizontal{
+    text-align: center;
+}
+
 ul.navbar {padding: 10px;
-      background:black;}
+      background:black;
+    }
 .navbar li{
   display: inline;
-    padding: 0px 10px 0px 10px;
-
+  color:white;
+  padding: 0px 10px 0px 10px;
+ 
   }
 
-
-
-/*.jumbotron {
-  padding: 30px 15px;
-  margin-bottom: 30px;
-  color: inherit;
-  background-color: #eee;
-}
-.jumbotron h1,
-.jumbotron .h1 {
-  color: inherit;
-}
-.jumbotron p {
-  margin-bottom: 15px;
-  font-size: 21px;
-  font-weight: 200;
-}
-.jumbotron > hr {
-  border-top-color: #d5d5d5;
-}
-.container .jumbotron,
-.container-fluid .jumbotron {
-  border-radius: 6px;
-}
-.jumbotron .container {
-  max-width: 100%;
-}
-@media screen and (min-width: 768px) {
-  .jumbotron {
-    padding: 48px 0;
-  }
-  .container .jumbotron,
-  .container-fluid .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
-  }
-  .jumbotron h1,
-  .jumbotron .h1 {
-    font-size: 63px;
-  }*/
-}
+.navbar a {
+  text-align: center;
+  color:white;
+ }
+audio{
+  position: right;
+ }

@@ -1,13 +1,25 @@
-h1 {
+h1{
 font-family:"Megrim", Helvetica;
+color:white;
 font-size: 60px;
+text-shadow:2px 2px #;
+vertical-align: bottom;
 text-align: center;
-background-image: url("./CFG-Project-Images/nature.jpg");
-background-size: cover; 
+background-image: url("./CFG-Project-Images/background1.jpg");
+position: relative;
+background-repeat: no-repeat;
+background-size:100% 100%;
+padding-bottom: 50px;
+padding-top: 100px;
 
 }
 
+
+
+
 #csncenter {
+    font-family: 'Lato', sans-serif;
+    color: black;
     display: block;
     background-color: white;
     padding-right: 15px;
@@ -16,10 +28,13 @@ background-size: cover;
     margin-left: auto;
     text-align: center;
     background-image: url("./CFG-Project-Images/leaf2.jpg");
-    background-size: cover; 
-}
+    background-size: cover;
 
+
+
+}
 p {
+  font-family: 'Lato', sans-serif;  
   text-align: center;
 
 }
@@ -70,6 +85,7 @@ p {
 }
 
 ul.navbar {
+  font-family: 'Lato', sans-serif;  
   padding: 10px;
   background:black;
 }

@@ -2,7 +2,7 @@ h1{
 font-family:"Megrim", Helvetica;
 color:white;
 font-size: 60px;
-text-shadow:2px 2px black;
+text-shadow:2px 2px #;
 text-align: center;
 background-image: url("./CFG-Project-Images/background1.jpg");
 position: relative;
@@ -28,15 +28,11 @@ padding-top: 100px;
 
 }
 p {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;  
   text-align: center;
   font-size: 24px;
 
-
-h3 {
-  text-align: center;
 }
-
 .secimg {
   width: 100px;
   height: 100px;
@@ -46,7 +42,7 @@ h3 {
   width: 180px;
   height: 180px;
 
-
+ 
 
 }
 
@@ -88,11 +84,11 @@ h3 {
 
 #formhorizontal{
   text-align: center;
-
+  
 }
 
 ul.navbar {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;  
   padding: 10px;
   background:black;
 }
@@ -111,6 +107,10 @@ ul.navbar {
 
 audio{
    float: right;
+ }
+
+ h3 {
+  text-align: center;
  }
 
 

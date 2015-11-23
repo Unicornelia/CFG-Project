@@ -1,11 +1,12 @@
 h1{
 font-family:"Megrim", Helvetica;
 color:white;
+text-shadow: 2px 2px black;
 font-size: 60px;
 text-shadow:2px 2px #;
 vertical-align: bottom;
 text-align: center;
-background-image: url("./CFG-Project-Images/background1.jpg");
+background-image: url("./CFG-Project-Images/tree.jpg");
 position: relative;
 background-repeat: no-repeat;
 background-size:100% 100%;
@@ -34,10 +35,15 @@ padding-top: 100px;
 
 }
 p {
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Lato', sans-serif;
   text-align: center;
 
 }
+
+h3 {
+  text-align: center;
+}
+
 .secimg {
   width: 100px;
   height: 100px;
@@ -46,7 +52,7 @@ p {
 .secimgspa {
   width: 180px;
   height: 180px;
- 
+
 }
 
 #contactus {
@@ -81,11 +87,11 @@ p {
 
 #formhorizontal{
   text-align: center;
-  
+
 }
 
 ul.navbar {
-  font-family: 'Lato', sans-serif;  
+  font-family: 'Lato', sans-serif;
   padding: 10px;
   background:black;
 }
@@ -103,7 +109,7 @@ ul.navbar {
  }
 
 audio{
-   position: right;
+   float: right;
  }
 
 

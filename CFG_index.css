@@ -33,7 +33,9 @@ p {
   font-size: 24px;
 
 
-
+h3 {
+  text-align: center;
+}
 
 .secimg {
   width: 100px;

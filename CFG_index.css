@@ -1,0 +1,125 @@
+h1{
+font-family:"Megrim", Helvetica;
+color:white;
+font-size: 60px;
+text-shadow:2px 2px #;
+vertical-align: bottom;
+text-align: center;
+background-image: url("./CFG-Project-Images/tree.jpg");
+position: relative;
+background-repeat: no-repeat;
+background-size:100% 100%;
+padding-bottom: 50px;
+padding-top: 100px;
+
+}
+
+
+
+
+#csncenter {
+    font-family: 'Lato', sans-serif;
+    color: black;
+    display: block;
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    background-image: url("./CFG-Project-Images/leaf2.jpg");
+    background-size: cover;
+
+
+
+}
+p {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+
+}
+.secimg {
+  width: 100px;
+  height: 100px;
+}
+
+.secimgspa {
+  width: 180px;
+  height: 180px;
+
+}
+
+#contactus {
+  text-align: center;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.9);
+  background-size: cover;
+  color: #ddd;
+  display: block;
+  padding: 10px;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+  margin: 20px 0 0 0;
+}
+
+#findus  {
+  text-align: center;
+  font-size: 16px;
+  background-color: rgba(0, 0, 0, 0.9);
+  background-size: cover;
+  color: #ddd;
+  display: block;
+  margin: 20px 0 20px 0;
+  padding: 10px;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.8));
+}
+
+
+
+#formhorizontal{
+  text-align: center;
+
+}
+
+ul.navbar {
+  font-family: 'Lato', sans-serif;
+  padding: 10px;
+  background:black;
+}
+
+.navbar li {
+  display: inline;
+  color:white;
+  padding: 0px 20px 0px 20px;
+
+   }
+
+.navbar a {
+  text-align: center;
+  color:white;
+ }
+
+audio{
+   position: right;
+ }
+
+
+.container2 p {
+  color: rgba(255,255,255,1);
+  background: black;
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+
+}
+
+a:link {
+  color:#00a3a3 ;
+}
+
+a:visited {
+  color:#00eeee;
+}

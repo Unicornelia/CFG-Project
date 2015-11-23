@@ -1,6 +1,7 @@
 h1{
 font-family:"Megrim", Helvetica;
 color:white;
+text-shadow: 2px 2px black;
 font-size: 60px;
 text-shadow:2px 2px #;
 vertical-align: bottom;
@@ -38,6 +39,11 @@ p {
   text-align: center;
 
 }
+
+h3 {
+  text-align: center;
+}
+
 .secimg {
   width: 100px;
   height: 100px;
@@ -103,7 +109,7 @@ ul.navbar {
  }
 
 audio{
-   position: right;
+   float: right;
  }
 
 
